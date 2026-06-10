@@ -58,4 +58,4 @@ Used `COUNT`, `SUM`, `GROUP BY`, and `HAVING` to identify:
 
 ## Author
 **Nahida Banoo** — BSc (Hons) Computer Science, University of Delhi  
-Research: Financial Fraud Detection (Conference Paper, 2024)
+Research: Financial Fraud Detection using Topological Data Analysis(TDA) (Research Paper, 2026)
